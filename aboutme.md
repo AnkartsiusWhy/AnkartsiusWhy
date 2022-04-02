@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java/Python 
 - 💞️ I’m looking to collaborate on your/mine project and ideas
 - 📫 How to reach me: there are my links:
-- email — asalalalalaasal@gmail
+- email — asalalalalaasal@gmail.com
 - telegram — @theblackpilled
 
 <!---
